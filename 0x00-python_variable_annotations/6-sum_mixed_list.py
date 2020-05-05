@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 "Multiple type anotations on a list"
 from typing import List
-mixed_list = List[float or int]
+mixed_list = List[float and int]
 
 
 def sum_mixed_list(mxd_lst: mixed_list) -> float:
