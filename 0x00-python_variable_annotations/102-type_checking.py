@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+''' This is documented now? '''
 
 from typing import List, Tuple
 
